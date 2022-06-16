@@ -3,5 +3,5 @@
 @section('title', 'About')
 
 @section('content')
-    <h1>This is about</h1>
+    <h1>Laravel AdminLTE3</h1>
 @endsection
